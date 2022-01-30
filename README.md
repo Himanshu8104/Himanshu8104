@@ -2,7 +2,8 @@
 - 👀 I’m interested in technology and Programming languages
 - 🌱 I’m currently learning in GH Raisoni college of Engineering 
 - 💞️ I’m looking to collaborate on the field of Tech and have kin interest in Data Scence, AI,Ml,Blockchain, python,etc.
-- 📫 How to reach me 
+- 📫 How to reach me?
+- 
      You can send email on my id himanshukatrojwar@gmail.com
 
 <!---
